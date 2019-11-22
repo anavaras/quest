@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee_id: 1
+  starttime: 2019-11-19 07:51:40
+  endtime: 2019-11-19 07:51:40
+
+two:
+  employee_id: 1
+  starttime: 2019-11-19 07:51:40
+  endtime: 2019-11-19 07:51:40
